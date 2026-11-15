@@ -1,0 +1,22 @@
+# Private inputs and generated runs
+/data/*
+!/data/README.md
+/outputs/
+# Original work retained locally, outside the submission
+/experiment1/
+/prep/
+/profile_datasets.py
+/DATA_PROFILE.md
+/research_notes/
+/reports/
+# Environments, caches and local tools
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store
+.claude/
+.code-review-graph/
